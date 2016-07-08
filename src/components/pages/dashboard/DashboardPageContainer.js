@@ -15,7 +15,7 @@ class Dashboard extends React.Component {
     const { router } = this.context;
 
     return (
-      <LayoutContainer headerText='Мониторинг'>
+      <LayoutContainer headerText='Dashboard'>
         <div className="wrap page-content">
           {'text'}
         </div>
